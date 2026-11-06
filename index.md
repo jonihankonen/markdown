@@ -1,4 +1,4 @@
- ## <Joni Hankonen> web-tehtävä
+ ## Joni Hankonen web-tehtävä
 
  //Italics and bold//
 
